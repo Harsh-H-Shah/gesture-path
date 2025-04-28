@@ -4,6 +4,28 @@
 
 Virtual Street Explorer is an interactive application that combines Google Street View navigation with gesture-based controls, creating an immersive and hands-free way to explore streets and locations. The application is built using PyQt5 and integrates Google Maps APIs to provide a seamless virtual navigation experience.
 
+## Demo
+
+<div align="center">
+  <img src="asset/Demo.png" alt="Demo of Virtual Street Explorer" width="800"/>
+</div>
+
+### Presentation
+
+<div align="center">
+  <a href="asset/presentation.pdf">
+    <img src="https://img.shields.io/badge/View%20Presentation-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="View Presentation"/>
+  </a>
+</div>
+
+Our presentation covers:
+
+- System architecture and data flow
+- Gesture recognition techniques
+- Implementation challenges and solutions
+- User experience design considerations
+- Future development roadmap
+
 ## Motivation
 
 Traditional street view navigation requires constant interaction with mouse and keyboard, which can be cumbersome and less intuitive. This project aims to make virtual street exploration more natural and engaging by:
